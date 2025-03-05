@@ -1,5 +1,5 @@
 // Question 1 A
-public class CriticalTemperature {
+public class Q1aCriticalTemperature {
     /**
      * This method calculates the minimum number of measurements required to reach a certain number of total measurements.
      * @param k The initial number of measurements.
