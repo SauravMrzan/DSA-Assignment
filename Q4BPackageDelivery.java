@@ -6,7 +6,7 @@ import java.util.*;
      * can collect packages from nodes that are within a distance of 2 roads. 
      * The robot must also return to its starting position.
      */
-public class PackageDelivery {
+public class Q4BPackageDelivery {
     // Returns the minimum roads needed to collect all packages (distance <= 2) and return to start.
     public static int minRoads(int[] packages, int[][] roads) {
         int n = packages.length; // Number of nodes in the graph
